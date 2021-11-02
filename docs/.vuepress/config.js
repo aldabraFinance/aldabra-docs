@@ -16,7 +16,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'apple-touch-icon', href: '/apple-icon.png' }],
-    ['meta', { name: 'description', content: 'Aldabra Finance is the decentralized ecosystem of stablecoins by using blockchain technology that relies on Binance Smart Chain (BSC).' }],
+    ['meta', { name: 'description', content: 'The decentralized ecosystem of stablecoins by using blockchain technology that relies on Binance Smart Chain (BSC).' }],
   ],
   base: process.env.VUEPRESS_BASE || "/",
   themeConfig: {
