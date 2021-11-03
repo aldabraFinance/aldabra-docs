@@ -27,4 +27,4 @@ Users can deposit ibTokens and/or lpTokens to earn ALDABRA tokens. These tokens 
 
 `The specifics of the reward distribution will be announced soon.`
 
-**Deposit your ibTokens and/or lpTokens into the Yield Farm :** [Link](https://app.aldabra.finance/#/farm)
+**Deposit your ibTokens and/or lpTokens into the Yield Farm :** `Coming soon`

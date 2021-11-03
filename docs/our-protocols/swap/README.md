@@ -27,7 +27,7 @@ The formula of invariant would determine the characteristics of the AMM. Which, 
 
 ### Fees
 
-When users swap stablecoins on Aldabra Finance a 0.02% trading fee is generated through swaps, which 0.01% are given back to users holding deposits in the Vault and 0.01% will be sent to the Aldabra treasury.
+When users swap stablecoins on Aldabra Finance a 0.02% fee is generated through swaps which 50% of the fee will be given back to users holding deposits in the Vault and 50% will be sent to the Aldabra treasury.
 ***
 
-**Swap your Stablecoins :** [Link](https://app.aldabra.finance/#/swap)
+**Swap your Stablecoins :** `Coming soon`

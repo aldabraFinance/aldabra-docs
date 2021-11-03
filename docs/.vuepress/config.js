@@ -59,12 +59,12 @@ module.exports = {
           title: "Our Protocols",
           children: [
             {
-              title: "Stable Pool",
-              path: "/our-protocols/pool/",
-            },
-            {
               title: "Constant Swap",
               path: "/our-protocols/swap/",
+            },
+            {
+              title: "Stable Pool",
+              path: "/our-protocols/pool/",
             },
             {
               title: "Yield Earning",

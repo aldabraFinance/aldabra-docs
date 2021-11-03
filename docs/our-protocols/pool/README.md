@@ -38,4 +38,4 @@ For each underlying stablecoin in the Stable pool, it has max and min reserve ra
 - Auto-rebalance every 6 hours
 ***
 
-**Deposit your USD stablecoins into the Stable pool to mint new STAL :** [Link](https://app.aldabra.finance/#/pool/mint)
+**Deposit your USD stablecoins into the Stable pool to mint new STAL :** `Coming soon`

@@ -81,9 +81,9 @@ Minting and redemption fees are dynamic fees for maintaining liquidity on the St
 
 For each underlying stablecoin in the Stable pool, it has its own set of max and min weights. This is to protect the Stable pool liquidity in the very unlikely case of a depeg of the underlying.
 
-When users mint/redeem STAL stablecoins a fee is generated according to the table above, which is 50% of minting/redemption fees are given back to users holding deposits in the Vault and 50% will be sent to the Aldabra treasury.
+When users mint/redeem STAL stablecoins a fee is generated according to the table above which 50% of mint/redeem fees will be given back to users holding deposits in the Vault and 50% will be sent to the Aldabra treasury.
 ***
 
-**Deposit your USD stablecoins into the Stable pool to mint new STAL :** [Link](https://app.aldabra.finance/#/pool/mint)
+**Deposit your USD stablecoins into the Stable pool to mint new STAL :** `Coming soon`
 
-**Deposit your STAL into the Vault to earn interest and fees share:** [Link](https://app.aldabra.finance/#/vault)
+**Deposit your STAL into the Vault to earn interest and fees share:** `Coming soon`

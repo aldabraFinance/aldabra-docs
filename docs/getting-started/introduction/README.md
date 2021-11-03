@@ -11,9 +11,9 @@ Aldabra Finance is the decentralized ecosystem of stablecoins, that is autonomou
 
 Aldabra Finance offers a solution to these three problems through three protocols:
 
-**Stable Pool** introduces the STAL stablecoin was designed to be a 100% USD-pegged stablecoin, which is fully backed by USD stablecoins that are `flexible to add or remove in the single liquidity pool.`
-
 **Constant Swap** allows users to efficiently swap stablecoins through the Aldabra Swap protocol, what is an automated market maker (AMM) that `supports zero slippage and price impact.`
+
+**Stable Pool** introduces the STAL stablecoin was designed to be a 100% USD-pegged stablecoin, which is fully backed by USD stablecoins that are `flexible to add or remove in the single liquidity pool.`
 
 **Yield Earning** offers the traditional yield farm to earn ALDABRA tokens from fair launch distributing and the Vault `to earn maximize interest` from autonomously depositing stablecoins to decentralized lending protocols.
 
