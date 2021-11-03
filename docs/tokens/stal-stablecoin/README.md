@@ -73,8 +73,8 @@ Minting and redemption fees are dynamic fees for maintaining liquidity on the St
 
 |                |      < Min weight      |   > Min < Max weight   |      > Max weight      |
 | -------------- | :--------------------: | :--------------------: | :--------------------: |
-| Minting fee    |          0.02%         |          0.04%         |          0.06%         |
-| Redemption fee |          0.08%         |          0.06%         |          0.04%         |
+| Minting fee    |          0.01%         |          0.02%         |          0.04%         |
+| Redemption fee |          0.08%         |          0.04%         |          0.02%         |
 
 - Min weight is the lowest percentage of the underlying stablecoin until it becomes unbalanced  
 - Max weight is the percentage of the underlying stablecoin that should never exceed, which should be equal to or greater than min weight 
