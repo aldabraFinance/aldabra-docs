@@ -18,7 +18,7 @@
           .features__item__text__h2 read
           .features__item__text__h1 Introduction
           .features__item__text__p Fair launch project with no pre-sale, no investor, and no pre-mine.
-      router-link(to="/getting-started/roadmap").features__item.features__item__dark
+      router-link(to="/getting-started/roadmap").features__item.features__item__white
 
         .features__item__text
           .features__item__text__h2 read
@@ -158,6 +158,24 @@
 
     &__dark &__text__p {
       color: white;
+      opacity: 0.8;
+    }
+
+    &__white {
+      background: white;
+    }
+
+    &__white &__text__h2 {
+      color: black;
+      opacity: 0.5;
+    }
+
+    &__white &__text__h1 {
+      color: black;
+    }
+
+    &__white &__text__p {
+      color: black;
       opacity: 0.8;
     }
 

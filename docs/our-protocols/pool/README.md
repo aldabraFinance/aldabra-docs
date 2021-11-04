@@ -6,7 +6,7 @@ order: 3
 
 The Aldabra Stable pool was designed to be a significant factor for the Aldabra ecosystem.
 
-![](/stable-pool_info.png)
+![](/assets/img/stable-pool_info.webp)
 
 ### Utility
 

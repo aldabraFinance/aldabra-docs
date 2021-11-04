@@ -6,7 +6,7 @@ order: 6
 
 The STAL stablecoin is a risk-minimised **100% USD-pegged Stablecoin** backed by USD stablecoins in the Stable pool that was introduced by the Aldabra Stable pool.
 
-![](/stal_info.png)
+![](/assets/img/stal_info.webp)
 
 ### Basic Information
 

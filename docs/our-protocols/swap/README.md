@@ -22,7 +22,7 @@ Currently, supports the following stablecoins:
 ### Swap Mechanics
 
 The formula of invariant would determine the characteristics of the AMM: the formula of `"x + y = k"` can provide a fixed price.
-![](/swap_info.png)
+![](/assets/img/swap_info.webp)
 ***
 
 ### Fees

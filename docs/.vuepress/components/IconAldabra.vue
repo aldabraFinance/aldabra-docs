@@ -1,3 +1,3 @@
 <template>
-  <img src="/token_box.png" width="100%">
+  <img src="/assets/img/token_box.webp" width="100%">
 </template>

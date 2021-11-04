@@ -14,8 +14,8 @@ module.exports = {
     },
   ],
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { rel: 'apple-touch-icon', href: '/apple-icon.png' }],
+    ['link', { rel: 'icon', href: '/assets/img/favicon.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/assets/img/apple-icon.png' }],
     ['meta', { name: 'description', content: 'The decentralized ecosystem of stablecoins by using blockchain technology that relies on Binance Smart Chain (BSC).' }],
   ],
   base: process.env.VUEPRESS_BASE || "/",

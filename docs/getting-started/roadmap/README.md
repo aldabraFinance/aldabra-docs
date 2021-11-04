@@ -22,9 +22,9 @@ Keep track of previous releases and upcoming developments to the Aldabra ecosyst
 :white_large_square: Go multi-chain  
 
 ### Integrations with DeFi protocols
-:soon: Autonomously lending deposits on  
-- :soon: Alpaca Finance  
-- :soon: Venus Protocol  
+:white_large_square: Autonomously lending deposits on  
+- :white_large_square: Alpaca Finance  
+- :white_large_square: Venus Protocol  
 
 :white_large_square: Launch pools on Pancakeswap  
 - :white_large_square: STAL-BUSD  

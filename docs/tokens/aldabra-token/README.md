@@ -6,7 +6,7 @@ order: 7
 
 The ALDABRA token is used as a **utility token** that is required for the right to lock and vote.
 
-![](/aldabra_info.png)
+![](/assets/img/aldabra_info.webp)
 
 ### Basic Information
 
@@ -40,7 +40,7 @@ As the protocol grows, value accrual mechanisms will be used to continuously dri
 ### Tokenomics
 
 Please see the chart below for the Aldabra tokenomics.
-![](/aldabra_tokenomics.png)
+![](/assets/img/aldabra_tokenomics.webp)
 
 **Development Fund :** 10% (10 million tokens) of the distributed tokens will go towards funding development and expanding the team, which will unlock by linear vesting over two years.
 
