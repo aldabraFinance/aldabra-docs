@@ -1,12 +1,12 @@
-<!--
-order: 3
--->
+---
+sidebar_position: 2
+---
 
 # Stable Pool
 
 The Aldabra Stable pool was designed to be a significant factor for the Aldabra ecosystem.
 
-![](/assets/img/stable-pool_info.webp)
+![](/img/stable-pool_info.webp)
 
 ### Utility
 
@@ -14,7 +14,7 @@ The Aldabra Stable pool will be utilized in a lot of ways to stabilize and provi
 
 Users can involve in the Aldabra ecosystem by depositing USD stablecoins into the Stable pool to mint **new STAL stablecoin with a 1:1 ratio.** 
 
-Initially, STAL stablecoin can be used for stablecoin swapping and earning like other stablecoins. [(More STAL details)](../../tokens/stal-stablecoin)
+Initially, STAL stablecoin can be used for stablecoin swapping and earning like other stablecoins. [(More STAL details)](tokens/stal-stablecoin.md)
 
 Stablecoins within the Stable pool will be divided into two parts **by the dynamic stablecoin reserve (DSR) algorithm.**
 - 20% of each underlying stablecoin reserve for provide liquidity on the Aldabra Swap protocol

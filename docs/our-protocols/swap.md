@@ -1,6 +1,6 @@
-<!--
-order: 4
--->
+---
+sidebar_position: 1
+---
 
 # Constant Swap
 
@@ -8,9 +8,9 @@ Aldabra Finance allows users to efficiently swap stablecoins through the Aldabra
 
 ### Swap Basics
 
-Users can swap between stablecoins in the Stable pool that are pegged to the same value with a 1:1 ratio **without any slippage and price impact.** No matter the trading value is, be it just $1 or $100,000, the price will stay the same. As long as the Stable pool has enough liquidity, the order will be fulfilled instantly.
+Users can swap between multiple stablecoins in the Stable pool that are pegged to the same value with a 1:1 ratio **without any slippage and price impact.** No matter what the trading value is $1 or $100,000, the price remains the same. The order will be fulfilled instantly as long as the Stable pool has enough liquidity.
 
-Currently, supports the following stablecoins:  
+Currently, the Stable pool supports the following stablecoins:  
 
 |      | Token Address                               |
 | ---- | ------------------------------------------- |
@@ -22,7 +22,8 @@ Currently, supports the following stablecoins:
 ### Swap Mechanics
 
 The formula of invariant would determine the characteristics of the AMM: the formula of `"x + y = k"` can provide a fixed price.
-![](/assets/img/swap_info.webp)
+
+![](/img/swap_info.webp)
 ***
 
 ### Fees

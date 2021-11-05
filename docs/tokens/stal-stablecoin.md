@@ -1,12 +1,12 @@
-<!--
-order: 6
--->
+---
+sidebar_position: 1
+---
 
 # STAL Stablecoin
 
 The STAL stablecoin is a risk-minimised **100% USD-pegged Stablecoin** backed by USD stablecoins in the Stable pool that was introduced by the Aldabra Stable pool.
 
-![](/assets/img/stal_info.webp)
+![](/img/stal_info.webp)
 
 ### Basic Information
 
@@ -26,7 +26,7 @@ Opportunities to arbitrage STAL from markets to make a profit from the price dif
 
 Provide liquidity with your STAL in major decentralized exchanges such as Pancakeswap.
 
-`More use cases will be added soon.` [(Roadmap)](../../getting-started/roadmap)
+`More use cases will be added soon.` [(Roadmap)](getting-started/roadmap.md)
 ***
 
 ### How to get STAL?

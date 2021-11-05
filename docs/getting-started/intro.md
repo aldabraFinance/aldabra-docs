@@ -1,6 +1,7 @@
-<!--
-order: 1
--->
+---
+sidebar_position: 1
+slug: /
+---
 
 # Introduction
 
@@ -19,17 +20,17 @@ Aldabra Finance offers a solution to these three problems through three protocol
 
 ## Launch Plan
 
-Aldabra Finance is a fair launch project with no pre-sale, no investor, and no pre-mine. Everyone will be eligible to get ALDABRA tokens equally by joining the testing period and/or providing liquidity after Aldabra Finance is launched. [(More details)](../../our-protocols/yield-earning/#yield-farm)
+Aldabra Finance is a fair launch project with no pre-sale, no investor, and no pre-mine. Everyone is eligible to receive ALDABRA tokens. by joining the testing period and/or providing liquidity after Aldabra Finance is launched. [(More details)](our-protocols/earn.md/#yield-farm)
 
 **Why is there a testing period?**
 
-Because Aldabra Finance introduces the protocol that develops a new algorithm for the Aldabra ecosystem. Therefore we need your help to test our protocols and build the community before launching.
+Aldabra Finance introduces the protocol that develops a new algorithm for the Aldabra ecosystem. So, we need your help to test our protocols and build the community before launching.
 
-It is possible to say that our `smart contracts are approved by the community.`
+We can say that our `smart contracts are approved by the community.`
 
 When the testing period ended, everyone who participated will get airdrop as ALDABRA token.
 
-You can joint the testing period on BSC testnet and help us build the community by:
+You can join the testing period on BSC testnet and help us to build the community by:
 
 - Follow us on twitter: [@AldabraFinance](https://twitter.com/AldabraFinance)  
 - Join the telegram group: [t.me/aldabrafinance_community](https://t.me/aldabrafinance_community)  

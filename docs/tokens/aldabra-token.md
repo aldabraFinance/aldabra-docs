@@ -1,12 +1,12 @@
-<!--
-order: 7
--->
+---
+sidebar_position: 2
+---
 
 # ALDABRA Token
 
 The ALDABRA token is used as a **utility token** that is required for the right to lock and vote.
 
-![](/assets/img/aldabra_info.webp)
+![](/img/aldabra_info.webp)
 
 ### Basic Information
 
@@ -40,7 +40,7 @@ As the protocol grows, value accrual mechanisms will be used to continuously dri
 ### Tokenomics
 
 Please see the chart below for the Aldabra tokenomics.
-![](/assets/img/aldabra_tokenomics.webp)
+![](/img/aldabra_tokenomics.webp)
 
 **Development Fund :** 10% (10 million tokens) of the distributed tokens will go towards funding development and expanding the team, which will unlock by linear vesting over two years.
 
@@ -48,7 +48,7 @@ Please see the chart below for the Aldabra tokenomics.
 
 **Marketing Fund :** 5% (5 million tokens) of the distributed tokens are reserved for airdrop campaign and future marketing expenses, which will unlock 10% (500,000 tokens) on TGE then no more than 250,000 tokens can be withdrawn each month.
 
-**Fair Launch Distribution :** 75% (75 million tokens) of the distributed tokens will be allocated by the Yield Farm over two years [(More details)](../../our-protocols/yield-earning/#yield-farm).
+**Fair Launch Distribution :** 75% (75 million tokens) of the distributed tokens will be allocated by the Yield Farm over two years [(More details)](our-protocols/earn.md/#yield-farm).
 ***
 
 ### Initial ALDABRA-wBNB Liquidity

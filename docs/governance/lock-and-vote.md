@@ -1,6 +1,6 @@
-<!--
-order: 8
--->
+---
+sidebar_position: 1
+---
 
 # Lock & Vote
 

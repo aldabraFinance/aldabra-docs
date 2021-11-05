@@ -1,6 +1,6 @@
-<!--
-order: 5
--->
+---
+sidebar_position: 3
+---
 
 # Yield Earning
 
@@ -18,7 +18,7 @@ Moreover, users are also given the option to deposit their interest-bearing toke
 
 **Performance fee :** 20% of gains harvested from decentralized lending protocols will be sent to the Aldabra treasury.
 
-**Deposit your STAL into the Vault to earn interest and fees share:** [Link](https://app.aldabra.finance/#/vault)
+**Deposit your STAL into the Vault to earn interest and fees share:** `Coming soon`
 ***
 
 ### Yield Farm
