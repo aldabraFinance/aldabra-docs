@@ -16,7 +16,7 @@ Aldabra Finance offers a solution to these three problems through three protocol
 
 **Stable Pool** introduces the STAL stablecoin was designed to be a 100% USD-pegged stablecoin, which is fully backed by USD stablecoins that are `flexible to add or remove in the single liquidity pool.`
 
-**Yield Earning** offers the traditional yield farm to earn ALDABRA tokens from fair launch distributing and the Vault `to earn maximize interest` from autonomously depositing stablecoins to decentralized lending protocols.
+**Yield Earning** offers the traditional yield farm to earn ALDABRA tokens from fair launch distributing and the Vault `to earn interest` from autonomously depositing stablecoins to decentralized lending protocols.
 
 ## Launch Plan
 

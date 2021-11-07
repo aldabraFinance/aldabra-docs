@@ -20,7 +20,7 @@ The STAL stablecoin is a risk-minimised **100% USD-pegged Stablecoin** backed by
 
 ### What's STAL used for?
 
-The STAL stablecoin can be deposited into the Vault to receive an interest-bearing token (ibSTAL) that can also be deposited into the Aldabra yield farm to earn ALDABRA tokens.
+The STAL can be deposited into the Vault to receive an interest-bearing token (ibSTAL) that can also be deposited into the Aldabra yield farm to earn ALDABRA tokens.
 
 Opportunities to arbitrage STAL from markets to make a profit from the price differences.
 

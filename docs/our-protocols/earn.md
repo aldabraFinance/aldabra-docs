@@ -8,7 +8,7 @@ Aldabra Finance offers the Yield Earning feature to all users to earn rewards wh
 
 ### The Vault
 
-the Vault was designed to generate a native interest rate. This is achieved through the Aldabra smart contracts programmatically depositing the underlying stablecoins into decentralized lending protocols to generate yield. In addition, trading, minting and redemption fees generated through **the Aldabra Stable pool and Swap protocol** will be passed on to users holding deposits in the Vault.
+The Vault was designed to generate a native interest rate. This is achieved through the Aldabra smart contracts programmatically depositing the underlying stablecoins into decentralized lending protocols to generate yield. In addition, trading, minting and redemption fees generated through **the Aldabra Stable pool and Swap protocol** will be passed on to users holding deposits in the Vault.
 
 `As interest and fees accrue, new STAL is minted and sent to the Vault.`
 
