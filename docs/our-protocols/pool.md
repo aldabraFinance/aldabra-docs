@@ -30,12 +30,11 @@ The Aldabra Stable pool can be `flexible to add a new underlying stablecoin` in 
 
 The simple idea is the Stable pool will reserve 20% of each underlying stablecoin to provide liquidity and autonomously deposit 80% to decentralized lending protocols.
 
-For each underlying stablecoin in the Stable pool, it has max and min reserve ratios. These are set to 30% and 10%.
-
 **Dynamic stablecoin reserve (DSR) algorithm will perform to rebalance when:**
 
-- The stablecoin reserve is more than 30% or less than 10% 
-- Auto-rebalance every 6 hours
+- The reserve is more than 30% of total balance; or
+- There is insufficient reserve for withdraw; or
+- Every 6 hours
 ***
 
 **Deposit your USD stablecoins into the Stable pool to mint new STAL :** `Coming soon`

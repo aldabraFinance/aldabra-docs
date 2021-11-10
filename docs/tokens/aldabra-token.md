@@ -34,7 +34,7 @@ As the protocol grows, value accrual mechanisms will be used to continuously dri
 - Airdrop, ad-hoc assignments, and volunteer work
 
 **Swap ALDABRA on major decentralized exchanges :**
-- Pancakeswap 
+- PancakeSwap 
 ***
 
 ### Tokenomics
@@ -53,6 +53,6 @@ Please see the chart below for the Aldabra tokenomics.
 
 ### Initial ALDABRA-wBNB Liquidity
 
-~ ALDABRA were used to seed the ALDABRA-wBNB pool on Pancakeswap and all LP tokens will be burned. `So there will be no rug pull.`
+~ ALDABRA were used to seed the ALDABRA-wBNB pool on PancakeSwap and all LP tokens will be burned. `So there will be no rug pull.`
 
 **:fire: LP Burning Transaction ID :** `Coming soon`  

@@ -24,7 +24,7 @@ The STAL can be deposited into the Vault to receive an interest-bearing token (i
 
 Opportunities to arbitrage STAL from markets to make a profit from the price differences.
 
-Provide liquidity with your STAL in major decentralized exchanges such as Pancakeswap.
+Provide liquidity with your STAL in major decentralized exchanges such as PancakeSwap.
 
 `More use cases will be added soon.` [(Roadmap)](getting-started/roadmap.md)
 ***
@@ -36,7 +36,7 @@ Provide liquidity with your STAL in major decentralized exchanges such as Pancak
 - Mint new STAL by depositing one or more USD stablecoins with a 1:1 ratio into the Stable pool and receiving STAL in return.
 
 **Buy STAL on major decentralized exchanges :**
-- Pancakeswap
+- PancakeSwap
 ***
 
 ### Minting and Redemption

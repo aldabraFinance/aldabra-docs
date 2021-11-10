@@ -26,14 +26,15 @@ Keep track of previous releases and upcoming developments to the Aldabra ecosyst
 - :white_large_square: Alpaca Finance  
 - :white_large_square: Venus Protocol  
 
-:white_large_square: Launch pools on Pancakeswap  
+:white_large_square: Launch pools on PancakeSwap  
 - :white_large_square: STAL-BUSD  
 - :white_large_square: ALDABRA-wBNB  
 
 :white_large_square: Integrate with DEX aggregators  
 - :white_large_square: 1inch  
-- :white_large_square: Arken Finance  
 - :white_large_square: WardenSwap  
+- :white_large_square: paraSwap  
+- :white_large_square: Arken Finance  
 
 :white_large_square: List on DeFi dashboard  
 - :white_large_square: Apeboard  
