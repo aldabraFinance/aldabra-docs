@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # STAL Stablecoin
 
-The STAL stablecoin is a risk-minimised **100% USD-pegged Stablecoin** backed by USD stablecoins in the Stable pool that was introduced by the Aldabra Stable pool.
+The STAL stablecoin is a risk-minimised **USD-pegged Stablecoin** backed by USD stablecoins in the Stable pool that was introduced by the Aldabra Stable pool.
 
 ![](/img/stal_info.webp)
 
@@ -13,14 +13,14 @@ The STAL stablecoin is a risk-minimised **100% USD-pegged Stablecoin** backed by
 **Token Name :** Stal Stablecoin  
 **Token Symbol :** STAL  
 **Decimals :** 18  
-**Circulation Supply :** `Coming soon`  
+**Circulation Supply :** [More Info](https://bscscan.com/token/0x5D48398539EeaB33aF7eb728aC2d84C5C4D8eE5F)  
 **Chain :** Binance Smart Chain (BEP-20)  
-**Contract Address :** `Coming soon`  
+**Contract Address :** [0x5D48398539EeaB33aF7eb728aC2d84C5C4D8eE5F](https://bscscan.com/address/0x5D48398539EeaB33aF7eb728aC2d84C5C4D8eE5F)  
 ***
 
 ### What's STAL used for?
 
-The STAL can be deposited into the Vault to receive an interest-bearing token (ibSTAL) that can also be deposited into the Aldabra yield farm to earn ALDABRA tokens.
+The STAL can be deposited into the STAL Vault to receive an interest-bearing token (ibSTAL) that can also be deposited into the Aldabra yield farm to earn ALDABRA tokens.
 
 Opportunities to arbitrage STAL from markets to make a profit from the price differences.
 
@@ -58,7 +58,7 @@ The stablecoins currently underlying STAL include:
 
 ### The Price Peg Mechanics
 
-The STAL stablecoin is a **100% USD-pegged Stablecoin** backed by USD stablecoins. It needs to remain pegged to the USD. The mechanics used rely on arbitrage, this can happen in several ways:
+The STAL stablecoin is a **USD-pegged Stablecoin** backed by USD stablecoins. It needs to remain pegged to the USD. The mechanics used rely on arbitrage, this can happen in several ways:
 
 - Someone might notice that STAL is trading on some market above $1 and decide to mint some STAL and immediately sell STAL to make a profit from the price difference.
 
@@ -81,9 +81,9 @@ Minting and redemption fees are dynamic fees for maintaining liquidity on the St
 
 For each underlying stablecoin in the Stable pool, it has its own set of max and min weights. This is to protect the Stable pool liquidity in the very unlikely case of a depeg of the underlying.
 
-When users mint/redeem STAL stablecoins a fee is generated according to the table above which 50% of mint/redeem fees will be given back to users holding deposits in the Vault and 50% will be sent to the Aldabra treasury.
+When users mint/redeem STAL stablecoins a fee is generated according to the table above which 50% of mint/redeem fees will be given back to users holding deposits in the STAL Vault and 50% will be sent to the Aldabra treasury.
 ***
 
-**Deposit your USD stablecoins into the Stable pool to mint new STAL :** `Coming soon`
+**Deposit your USD stablecoins into the Stable pool to mint new STAL :** [Mint Now!](https://app.aldabra.finance/#/swap/BUSD/STAL)
 
-**Deposit your STAL into the Vault to earn interest and fees share:** `Coming soon`
+**Deposit your STAL into the STAL Vault to earn interest and fees share:** [Deposit Now!](https://app.aldabra.finance/#/deposit)

@@ -15,8 +15,8 @@ Currently, the Stable pool supports the following stablecoins:
 |      | Token Address                               |
 | ---- | ------------------------------------------- |
 | BUSD | [0xe9e7cea3dedca5984780bafc599bd69add087d56](https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56) |
-| USDT | [0x55d398326f99059ff775485246999027b3197955](https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955) |
 | USDC | [0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d](https://bscscan.com/token/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d) |
+| USDT | [0x55d398326f99059ff775485246999027b3197955](https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955) |
 ***
 
 ### Swap Mechanics
@@ -28,7 +28,7 @@ The formula of invariant would determine the characteristics of the AMM: the for
 
 ### Fees
 
-When users swap stablecoins on Aldabra Finance a 0.02% fee is generated through swaps which 50% of the fee will be given back to users holding deposits in the Vault and 50% will be sent to the Aldabra treasury.
+When users swap stablecoins on Aldabra Finance a 0.02% fee is generated through swaps which 50% of the fee will be given back to users holding deposits in the STAL Vault and 50% will be sent to the Aldabra treasury.
 ***
 
-**Swap your Stablecoins :** `Coming soon`
+**Swap your Stablecoins :** [Swap Now!](https://app.aldabra.finance/#/swap)

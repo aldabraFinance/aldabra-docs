@@ -14,9 +14,9 @@ Aldabra Finance offers a solution to these three problems through three protocol
 
 **Constant Swap** allows users to efficiently swap stablecoins through the Aldabra Swap protocol, what is an automated market maker (AMM) that `supports zero slippage and price impact.`
 
-**Stable Pool** introduces the STAL stablecoin was designed to be a 100% USD-pegged stablecoin, which is fully backed by USD stablecoins that are `flexible to add or remove in the single liquidity pool.`
+**Stable Pool** introduces the STAL stablecoin was designed to be a USD-pegged stablecoin, which is fully backed by USD stablecoins that are `flexible to add in the single liquidity pool.`
 
-**Yield Earning** offers the traditional yield farm to earn ALDABRA tokens from fair launch distributing and the Vault `to earn interest` from autonomously depositing stablecoins to decentralized lending protocols.
+**Yield Earning** offers the traditional yield farm to earn ALDABRA tokens from fair launch distributing and the STAL Vault `to earn interest` from autonomously depositing stablecoins to decentralized lending protocols.
 
 ## Launch Plan
 
@@ -25,8 +25,6 @@ Aldabra Finance is a fair launch project with no pre-sale, no investor, and no p
 **Why is there a testing period?**
 
 Aldabra Finance introduces the protocol that develops a new algorithm for the Aldabra ecosystem. So, we need your help to test our protocols and build the community before launching.
-
-We can say that our `smart contracts are approved by the community.`
 
 When the testing period ended, everyone who participated will get airdrop as ALDABRA token.
 

@@ -37,4 +37,4 @@ The simple idea is the Stable pool will reserve 20% of each underlying stablecoi
 - Every 6 hours
 ***
 
-**Deposit your USD stablecoins into the Stable pool to mint new STAL :** `Coming soon`
+**Deposit your USD stablecoins into the Stable pool to mint new STAL :** [Mint Now!](https://app.aldabra.finance/#/swap/BUSD/STAL)
